@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CombinationExample {
+public class Combination {
 
     static int fact(int number) {
         int f = 1;
